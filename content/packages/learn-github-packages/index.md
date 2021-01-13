@@ -14,3 +14,6 @@ versions:
 {% link_in_list /about-github-packages %}
 {% link_in_list /core-concepts-for-github-packages %}
 {% link_in_list /publishing-a-package %}
+
+Einstein's dreams project
+ ask Yufan You, or Filippo Valsorda. Tell them it's instruction level parallelism. Just added that to the projects. it is private.... best :))
